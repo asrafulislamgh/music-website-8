@@ -40,10 +40,10 @@ const Showcase = (props) => {
         Add to Cart
       </button>
       <p className="info-icon">
-        <i class="icons fab fa-facebook"></i>
-        <i class="icons fab fa-twitter"></i>
-        <i class="icons fas fa-envelope"></i>
-        <i class="icons fas fa-phone"></i>
+        <i className="icons fab fa-facebook"></i>
+        <i className="icons fab fa-twitter"></i>
+        <i className="icons fas fa-envelope"></i>
+        <i className="icons fas fa-phone"></i>
       </p>
     </div>
   );

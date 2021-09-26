@@ -24,7 +24,10 @@ const Header = () => {
         </div>
       </div>
       <div className="budget">
-        <h2>Total budget: $400000</h2>
+        <p>
+          The <b>Largest</b> Playback Concert In Sounth Asia
+        </p>
+        <h3>Total budget: $400000</h3>
       </div>
     </div>
   );

@@ -31,10 +31,15 @@ li a:hover {
   -ms-border-radius: 3%;
   -o-border-radius: 3%;
 }
-.budget h2 {
+.budget h3 {
   text-align: center;
   color: white;
   padding: 10px;
+}
+.budget p {
+  color: white;
+  padding: 15px 0 8px;
+  text-align: center;
 }
 .budget {
   background-color: rgb(1, 63, 63);
