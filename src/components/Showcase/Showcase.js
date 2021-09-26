@@ -2,7 +2,7 @@ import React from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faShoppingCart } from "@fortawesome/free-solid-svg-icons";
 import "./Showcase.css";
-import { useState } from "react/cjs/react.development";
+import { useState } from "react";
 
 const Showcase = (props) => {
   const { handleEvent } = props;
