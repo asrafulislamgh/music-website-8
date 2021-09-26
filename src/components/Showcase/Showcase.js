@@ -39,6 +39,12 @@ const Showcase = (props) => {
         <FontAwesomeIcon className="cart-icon" icon={faShoppingCart} />
         Add to Cart
       </button>
+      <p className="info-icon">
+        <i class="icons fab fa-facebook"></i>
+        <i class="icons fab fa-twitter"></i>
+        <i class="icons fas fa-envelope"></i>
+        <i class="icons fas fa-phone"></i>
+      </p>
     </div>
   );
 };

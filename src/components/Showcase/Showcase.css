@@ -24,6 +24,7 @@ p {
   -moz-border-radius: 10px;
   -ms-border-radius: 10px;
   -o-border-radius: 10px;
+  box-shadow: 5px 5px 10px #dbdbdb;
 }
 .general-btn {
   background-color: #020c4a;
@@ -31,10 +32,28 @@ p {
   color: white;
   margin-top: 10px;
   cursor: pointer;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
 }
 .general-btn:hover {
   background-color: #22538a;
 }
 .cart-icon {
   padding-right: 5px;
+}
+.info-icon {
+  color: #3c008b;
+  text-align: center;
+}
+.icons {
+  cursor: pointer;
+  margin-top: 14px;
+  padding: 10px 20px;
+  font-size: 20px;
+}
+.icons:hover {
+  color: black;
 }
