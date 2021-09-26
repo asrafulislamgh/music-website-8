@@ -4,6 +4,7 @@
       "name": "Mary J. Blige",
       "keysongs": "Real Love, Not Gon Cry, No More Drama",
       "awards": "Franklin Award, Ifia Award, SuperStart Award",
+      "rating": 4.5,
       "country": "USA",
       "img": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-134970-mary-j-blige.jpg?w=306",
       "salary": 3400
@@ -13,6 +14,7 @@
       "name": "Steven Tyler",
       "keysongs": "Sweet Emotion, Dream On, Walk This Way",
       "awards": "Franklin Award, SuperStart Award, Canadian Rockstar Award",
+      "rating": 4.4,
       "country": "Canada",
       "img": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-134969-steven-tyler.jpg?w=306",
       "salary": 3900
@@ -22,6 +24,7 @@
       "name": "Stevie Nicks",
       "keysongs": "Landslide, Dreams, Stand back",
       "awards": "Franklin Award, USA Got Talent Award",
+      "rating": 4.2,
       "country": "USA",
       "img": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-134968-stevie-nicks.jpg?w=306",
       "salary": 3000
@@ -31,6 +34,7 @@
       "name": "Annie Lennox",
       "keysongs": "Sweet Dreams, Here Comes the Rain Again",
       "awards": "Jicken Jack Award, SuperStart Award",
+      "rating": 4.6,
       "country": "UK",
       "img": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-134963-annie-lennox.jpg?w=306",
       "salary": 3400
@@ -40,8 +44,9 @@
       "name": "Sonu Nigam",
       "keysongs": "Kal Ho Naa Ho, Abhi Mujh Mein Kahin",
       "awards": "Filmfare Award, Kannda Award",
+      "rating": 4.7,
       "country": "India",
-      "img": "https://www.iwmbuzz.com/wp-content/uploads/2020/01/every-time-sonu-nigam-touched-hearts-with-his-soulful-rendition-920x518.jpg",
+      "img": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/3/7/9/6/306b-6627-4e33-9c72-47760b4e2407.jpg",
       "salary": 2800
     },
     {
@@ -49,8 +54,9 @@
       "name": "Kumar Sanu",
       "keysongs": "Jab Koi Baat Bigad Jaaye, Tujhe Dekha To",
       "awards": "Padma Shri Award, Filmfare Award",
+      "rating": 4.3,
       "country": "India",
-      "img": "https://businessconnectindia.in/wp-content/uploads/2021/05/Kumar-Sanu.jpg",
+      "img": "https://cdn.allfamous.org/people/avatars/kumar-sanu-e9pw-allfamous.org.jpg?v=56",
       "salary": 3000
     },
     {
@@ -58,6 +64,7 @@
       "name": "Shreya Ghoshal",
       "keysongs": "Deewani Mastani, Saans",
       "awards": "Filmfare Award, Guild Award",
+      "rating": 4.8,
       "country": "India",
       "img": "https://businessconnectindia.in/wp-content/uploads/2021/05/shreya.jpg",
       "salary": 2900
@@ -67,8 +74,9 @@
       "name": "Ayub Bachchu",
       "keysongs": "Real Love, Not Gon Cry, No More Drama",
       "awards": "Bangladesh Playback singer Award",
+      "rating": 4.5,
       "country": "Bangladesh",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/LRB_Ayub_Bachchu_%28cropped%29.jpg/330px-LRB_Ayub_Bachchu_%28cropped%29.jpg",
+      "img": "https://i.scdn.co/image/ab67616d0000b273ea3d97051b8c2ae761e63a5e",
       "salary": 3100
     },
     {
@@ -76,8 +84,9 @@
       "name": "Monali Thakur",
       "keysongs": "Cham Cham, Moh Moh Ke Dhaage",
       "awards": "Filmfare Award, National Film Award",
+      "rating": 4.3,
       "country": "India",
-      "img": "https://businessconnectindia.in/wp-content/uploads/2021/05/72608-240x300.jpg",
+      "img": "https://topcelebinfo.com/wp-content/uploads/2021/08/94-1-300x300.jpg",
       "salary": 2300
     },
     {
@@ -85,8 +94,9 @@
       "name": "Jubin Nautiyal",
       "keysongs": "Meherbani, Phir Mulaaqat, Tujhe Kitna Chahein Aur",
       "awards": "Mirchi Music Awards, ITA Award",
+      "rating": 4.1,
       "country": "India",
-      "img": "https://businessconnectindia.in/wp-content/uploads/2021/05/jubin-nautiyal-290x300.jpg",
+      "img": "https://bossmobi.co.in/siteuploads/thumb/c/263_4.jpg",
       "salary": 2000
     },
     {
@@ -94,8 +104,9 @@
       "name": "Mohit Chauhan",
       "keysongs": "Tum Se hi, Tum Ho, Guncha, Tujhe Bhula Diya",
       "awards": "BACE Award, BIG start award",
+      "rating": 4.7,
       "country": "India",
-      "img": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-134970-mary-j-blige.jpg?w=306",
+      "img": "https://celebborn.com/celeb_image/mohit-chauhan-6431.jpg",
       "salary": 2200
     },
     {
@@ -103,15 +114,17 @@
       "name": "AR Rehman",
       "keysongs": " Maahi Ve, Kun Fayakun, Phir Se Ud Chala",
       "awards": "Academy Award, Filmfare Award",
+      "rating": 4.9,
       "country": "India",
-      "img": "https://businessconnectindia.in/wp-content/uploads/2021/05/A._R._Rahman.jpg",
-      "salary": 2200
+      "img": "https://bodysize.org/wp-content/uploads/2017/05/a-r-rahman-300x300.jpg",
+      "salary": 2500
     },
     {
       "key": 13,
       "name": "Arijit Singh",
       "keysongs": "Tum Hi Ho, Agar Tum Sath Ho, Kalank, Hawayein",
       "awards": "Filmfare Award, Ifia Award, Mirchi Award",
+      "rating": 4.9,
       "country": "India",
       "img": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/arijit-singh-1048083-24-03-2017-18-02-00.jpg",
       "salary": 2700
@@ -121,8 +134,9 @@
       "name": "Krishnakumar Kunnath",
       "keysongs": "I am in Love, Tu jo mila, Zindgi Do Pal Ki",
       "awards": "Best Male Playback Singer Award, Filmfare Award",
+      "rating": 4.6,
       "country": "India",
-      "img": "http://3.bp.blogspot.com/-VCDhQ8TznBI/TrIvuKh5eiI/AAAAAAAABa4/IOeV-RMx4Sk/s1600/43.jpg",
+      "img": "https://cdn.idolnetworth.com/images/15/kk.jpg",
       "salary": 3000
     },
     {
@@ -130,8 +144,9 @@
       "name": "James",
       "keysongs": "Tor Premete, Bheegi, Bheegi",
       "awards": "Bangladesh National Film Award, Best playback Singer Award",
+      "rating": 4.4,
       "country": "Bangladesh",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Faruq_Mahfuz_Anam_in_Trination_Mega_Festival_-_Bangladesh_India_Pakistan_%288375647058%29.jpg/330px-Faruq_Mahfuz_Anam_in_Trination_Mega_Festival_-_Bangladesh_India_Pakistan_%288375647058%29.jpg",
+      "img": "https://www.suneeshsundar.com/wp-content/uploads/2017/10/james-300x300.jpg",
       "salary": 3200
     }
   ]

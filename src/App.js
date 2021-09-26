@@ -1,10 +1,12 @@
-import logo from "./logo.svg";
 import "./App.css";
+import Header from "./components/Header/Header";
+import MusicContainer from "./components/MusicContainer/MusicContainer";
 
 function App() {
   return (
     <div className="App">
-      <h2>Bismillahir Rahmanir Rahim</h2>
+      <Header></Header>
+      <MusicContainer></MusicContainer>
     </div>
   );
 }

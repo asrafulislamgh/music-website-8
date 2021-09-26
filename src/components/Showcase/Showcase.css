@@ -1,0 +1,25 @@
+.singer-img {
+  text-align: center;
+  height: 200px;
+  overflow: hidden;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  border: 5px solid rgb(96, 33, 155);
+}
+.singer-container {
+  background-color: rgb(236, 236, 236);
+  padding: 10px;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
+.general-btn {
+  background-color: #020c4a;
+  padding: 10px 30px;
+  color: white;
+}
