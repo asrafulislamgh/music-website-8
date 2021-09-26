@@ -57,3 +57,6 @@ p {
 .icons:hover {
   color: black;
 }
+.rating {
+  color: rgb(96, 33, 155);
+}

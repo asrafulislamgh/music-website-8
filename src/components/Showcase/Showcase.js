@@ -3,6 +3,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faShoppingCart } from "@fortawesome/free-solid-svg-icons";
 import "./Showcase.css";
 import { useState } from "react";
+import Rating from "react-rating";
 
 const Showcase = (props) => {
   const { handleEvent } = props;
@@ -25,7 +26,15 @@ const Showcase = (props) => {
         <b>Remumeration:</b> ${salary}
       </p>
       <p>
-        <b>Rating:</b> {rating}
+        <b>Rating: </b>
+        <Rating
+          className="rating"
+          initialRating={rating}
+          readonly
+          emptySymbol="far fa-star"
+          fullSymbol="fas fa-star"
+          fractions={2}
+        />
       </p>
       <button
         disabled={disabled}
