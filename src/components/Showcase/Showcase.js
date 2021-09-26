@@ -1,20 +1,44 @@
 import React from "react";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faShoppingCart } from "@fortawesome/free-solid-svg-icons";
 import "./Showcase.css";
+import { useState } from "react/cjs/react.development";
 
 const Showcase = (props) => {
+  const { handleEvent } = props;
   const { singer } = props;
   const { name, salary, img, rating, keysongs, awards } = singer;
+  const [disabled, setDisabled] = useState(false);
   return (
     <div className="singer-container">
       <div className="image-cropper">
         <img className="singer-img" src={img} alt="" />
       </div>
-      <h3>{name}</h3>
-      <h4>Key Songs: {keysongs}</h4>
-      <h4>Awards: {awards}</h4>
-      <h4>Remumeration: ${salary}</h4>
-      <h5>Rating: {rating}</h5>
-      <button className="general-btn">Add to Cart</button>
+      <h2>{name}</h2>
+      <p>
+        <b>Key Songs:</b> {keysongs}
+      </p>
+      <p>
+        <b>Awards:</b> {awards}
+      </p>
+      <p>
+        <b>Remumeration:</b> ${salary}
+      </p>
+      <p>
+        <b>Rating:</b> {rating}
+      </p>
+      <button
+        disabled={disabled}
+        className="general-btn"
+        onClick={() => {
+          handleEvent(singer);
+          setDisabled(true);
+        }}
+      >
+        {" "}
+        <FontAwesomeIcon className="cart-icon" icon={faShoppingCart} />
+        Add to Cart
+      </button>
     </div>
   );
 };
